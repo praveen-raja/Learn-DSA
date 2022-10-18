@@ -29,8 +29,6 @@
 
 ## Best Use case of `Array` data structure
 
----
-
 ### Manipulating Last Item(Insertion or Removal)
 
 `O(1) running time` - this is why we like arrays.
